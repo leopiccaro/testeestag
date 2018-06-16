@@ -52,5 +52,5 @@ def trade_lavadora(max_pages):
                         print('-------------')
                 page += 1 
 
-trade_geladeira(1)
-trade_lavadora(1)
+trade_geladeira(10)
+trade_lavadora(10)
